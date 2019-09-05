@@ -8,7 +8,7 @@ public class ForLoops {
 		// TODO Auto-generated method stub
 
 		{ 
-		//help
+		//help me
 			//print5();
 			//printDoughnuts();
 			//print1To5();
