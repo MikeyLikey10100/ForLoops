@@ -7,8 +7,8 @@ public class ForLoops {
 	public static void main(String[] args) 
 		// TODO Auto-generated method stub
 
-		{
-		//help	please i need it
+		{ 
+		//help
 			//print5();
 			//printDoughnuts();
 			//print1To5();
